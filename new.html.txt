@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Quiz 1</title>
+</head>
+<body>
+<h1> Things i have learned</h1>
+<h2>internet Basic</h2>
+<ol>
+	<li>http request</li>
+	<li>ip address</li>
+	<li>server</li>
+</ol>
+<h2>Html</h2>
+<ul>
+    <li>stand for hyper text markup language</li>
+       <li>Lots of tags</li>
+       <ul>
+       	<li>Boilerplate</li>
+       	<ol>
+       		<li>Documetn</li>
+       		<li>html</li>
+       		<li>head</li>
+       		<ol>
+       			<li>title</li>
+       		</ol>
+       		<li>body</li>
+       	</ol>
+       	<li>heading</li>
+       	<li>paragraph</li>
+       	<li>em</li>
+       	<li><strong>strong</strong></li>
+       </ul>
+
+
+<ul>
+	  
+
+</body>
+</html>
+dfsfsfsfnsj
