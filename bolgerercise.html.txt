@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Blog</title>
+	<link rel="stylesheet" type="text/css" href="blog.css">
+</head>
+<body>
+<h2>This is my first article</h2>	
+<p>Bacon ipsum dolor amet beef ribs leberkas chislic hamburger 
+kielbasa strip steak landjaeger bresaola.
+Porchetta filet mignon strip steak, pork loin jerky pork 
+chop turkey jowl. Pig tenderloin prosciutto 
+turkey andouille shoulder. Chicken jowl ham, 
+turducken alcatra doner tenderloin cupim. Turducken jowl
+sirloin, tri-tip swine brisket pork belly chicken.
+Corned beef spare ribs chicken turkey 
+swine, chuck t-bone hamburger leberkas tongue 
+boudin pastrami meatloaf short ribs.
+Cupim prosciutto burgdoggen tail
+</p>
+</body>
+</html>
